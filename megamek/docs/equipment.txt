@@ -65,6 +65,7 @@ W,3060-Clan3079-Clan3067-Clan,3060-Clan_Experimental3079-Clan_TW3067-Clan_Advanc
 W,3079-Inner Sphere3068-Inner Sphere,3079-IS_TW_Non_Box3068-IS_Advanced,Heavy Flamer,IS Heavy Flamer,ISHeavyFlamer,
 W,3081-Inner Sphere3070-Inner Sphere,3081-IS_TW_Non_Box3070-IS_Advanced,ER Flamer,IS ER Flamer,ISERFlamer,
 W,3060-Clan3081-Clan3067-Clan,3060-Clan_Experimental3081-Clan_TW3067-Clan_Advanced,CLERFlamer,CL ER Flamer,
+W,2305-Inner Sphere2290-Inner Sphere2300-Inner Sphere,2305-IS_Box_Set2290-IS_Experimental2300-IS_Advanced,Custom Autocannon/2,Custom IS Auto Cannon/2,Custom Auto Cannon/2,Custom AutoCannon/2,Custom AC/2,Custom ISAC2,Custom IS Autocannon/2,
 W,2305-Inner Sphere2290-Inner Sphere2300-Inner Sphere,2305-IS_Box_Set2290-IS_Experimental2300-IS_Advanced,Autocannon/2,IS Auto Cannon/2,Auto Cannon/2,AutoCannon/2,AC/2,ISAC2,IS Autocannon/2,
 W,2240-Inner Sphere2250-Inner Sphere2255-Inner Sphere,2240-IS_Experimental2250-IS_Advanced2255-IS_Box_Set,Autocannon/5,IS Auto Cannon/5,Auto Cannon/5,AC/5,AutoCannon/5,ISAC5,IS Autocannon/5,
 W,2465-Inner Sphere2443-Inner Sphere2460-Inner Sphere,2465-IS_Box_Set2443-IS_Experimental2460-IS_Advanced,Autocannon/10,IS Auto Cannon/10,Auto Cannon/10,AutoCannon/10,AC/10,ISAC10,IS Autocannon/10,
