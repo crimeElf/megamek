@@ -14,7 +14,7 @@
 package megamek.common.weapons.autocannons;
 
 public class CUSTOMAC2 extends ACWeapon {
-    private static final long serialVersionUID = 4780847244648362671L;
+    private static final long serialVersionUID = 5850000L;
 
     public CUSTOMAC2() {
         super();
